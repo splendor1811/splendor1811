@@ -1,11 +1,11 @@
 ### Hi there, I'm [Huy Hoàng][website] 👋
 
 
-## I'm a AI Engineer at Panasonic R&D Center VietNam(PRDCV) !!
+## I'm a AI Engineer at Asia Commercial Bank
 
 
 - 🌱 My main interests are Artificial Intelligence, especially Large Language Models (LLMs), Multimodal Large Language Models (MLLMs), AI Agents, and Computer Vision. 💯
-- ⚡ Fun fact: I love basketball ️🏀
+- ⚡ Fun fact: I love basketball, LoL ️🏀
 
 ### Connect with me:
 
@@ -26,11 +26,6 @@
 <br />
 <br />
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=splendor1811&show_icons=true&theme=radical)
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=splendor1811&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [website]: https://www.linkedin.com/in/huy-ho%C3%A0ng-l%C3%AA-a34b3021b/
